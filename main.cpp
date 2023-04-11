@@ -13,7 +13,6 @@ int main()
         cout << "hello world cycle" << endl;
         // comment.
     }
-    int yammye = 0;
 
     system("pause");
     return 0;
