@@ -12,6 +12,10 @@ int main()
     for (int index_Int = 0; index_Int < 10; index_Int++){
         cout << "hello world cycle" << endl;
     }
+    // new_branch
+    for (int index_Int = 0; index_Int < 10; index_Int++){
+        cout << "hello world cycle" << endl;
+    }
 
     system("pause");
     return 0;
