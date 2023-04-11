@@ -4,13 +4,5 @@
 
 1679057461 d:\user\c++\debug\github_sqlite\objects.h
 
-1681197394 source:d:\user\c++\debug\github_sqlite\main.cpp
-	<iostream>
-	"objects.h"
-	"function.h"
-
-1674756425 d:\user\c++\debug\github_sqlite\function.h
-	"objects.h"
-
 1674756498 source:d:\user\c++\debug\github_sqlite\objects.cpp
 
