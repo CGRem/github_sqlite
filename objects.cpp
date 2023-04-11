@@ -1,0 +1,4 @@
+namespace objects_r
+{
+
+}
