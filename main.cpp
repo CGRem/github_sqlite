@@ -11,6 +11,7 @@ int main()
     // цикл for
     for (int index_Int = 0; index_Int < 10; index_Int++){
         cout << "hello world cycle" << endl;
+        // comment
     }
 
     system("pause");
