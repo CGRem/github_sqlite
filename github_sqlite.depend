@@ -34,3 +34,8 @@
 
 1681281356 source:d:\user\c++\debug\github_cmd\github_sqlite\procedure.cpp
 
+1681282931 source:d:\user\c++\debug\github_cmd\github_sqlite\main.cpp
+	<iostream>
+	"objects.h"
+	"function.h"
+
