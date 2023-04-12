@@ -13,6 +13,9 @@ int main()
         cout << "hello world cycle" << endl;
         // comment.
     }
+    time_t nowunix_Tt = 0;
+    short errmsg = func_r::get_Tt_nowunix(nowunix_Tt);
+    cout << "ошибка " << errmsg << " : "<<"юникс время " << nowunix_Tt << endl;
 
     system("pause");
     return 0;
