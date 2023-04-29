@@ -3,7 +3,7 @@
 #include "objects.h"
 namespace func_r
 {
-
+    short get_Tt_nowunix(time_t& nowunix_Tt);
 }
 
 
