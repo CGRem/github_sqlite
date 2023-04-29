@@ -1,4 +1,6 @@
 #ignore folders
 obj/
 bin/
+bin/Debug/github_sqlite.exe
+
 
