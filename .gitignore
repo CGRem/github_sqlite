@@ -2,3 +2,6 @@
 obj/
 bin/
 bin/Debug/github_sqlite.exe
+github_sqlite.depend
+github_sqlite.layout
+
